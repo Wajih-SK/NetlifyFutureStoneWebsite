@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../../../App.css'
-import { NewsImages } from './NewsImages';
+// import { NewsImages } from './NewsImages';
 import './Media.css';
 
 
