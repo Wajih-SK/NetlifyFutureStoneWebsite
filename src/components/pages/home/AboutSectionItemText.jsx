@@ -1,5 +1,5 @@
 export const AboutSectionItemText = [
-    "text1",
+    "texxvfdfdt1",
     "text2",
     "text3"
 ]
